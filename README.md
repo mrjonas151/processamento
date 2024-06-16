@@ -9,6 +9,7 @@
 O projeto tem como objetivo desenvolver um classificador para diferenciar entre imagens de raio-X de pulmões com e sem Covid-19. Utilizamos um descritor de textura baseado no padrão binário local (LBP) para extrair características das imagens e treinamos um classificador SVM (Support Vector Machine) para realizar a classificação.
 
 ## Repositório do Projeto
+https://github.com/mrjonas151/processamento
 
 ## Classificador e Acurácia
 O modelo utiliza um classificador Support Vector Machine (SVM) treinado com características extraídas usando Local Binary Pattern (LBP).
